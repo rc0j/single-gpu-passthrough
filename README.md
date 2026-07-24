@@ -1,5 +1,9 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F725eh3qsu33te93f7ohi.png&f=1&nofb=1&ipt=fa9aaa5c1c0c9a1d0ccd3ce487f642a475f29e11456c7149764b4208385ff516"/>
 
+# Special thanks
+https://github.com/QaidVoid/Complete-Single-GPU-Passthrough
+https://youtu.be/BUSrdUoedTo?si=RSYHm7Jp37OSIKDh
+
 # Single GPU Passthrough
 
 Made with the help of Local LLM `gemma4.`
